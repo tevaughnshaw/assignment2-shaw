@@ -11,3 +11,8 @@ Three best players on the team in order:
 1. Derek Jeter
 2. Yogi Berra
 3. Babe Ruth
+<br>
+Other baseball teams to watch:
+* Kansas City Royals
+* Los Angeles Dodgers
+* Houston Astros
