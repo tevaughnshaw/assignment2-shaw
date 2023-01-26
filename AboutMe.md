@@ -23,8 +23,8 @@ If I had to recommend four countries to someone I would recommend the following:
 --------
 ### Code Snippet
 
-> How to correctly perform cross validation in scikit-learn?
->> Stack%20Overflow%20Article%20Source:%20<https://stackoverflow.com/questions/55270431/how-to-correctly-perform-cross-validation-in-scikit-learn>
+> ***How to correctly perform cross validation in scikit-learn?***
+>> Stack Overflow Article Source: <https://stackoverflow.com/questions/55270431/how-to-correctly-perform-cross-validation-in-scikit-learn>
 
 ```
 <!-- first try HTML5 playback: if serving as XML, expand `controls` to `controls="controls"` and autoplay likewise -->
@@ -49,4 +49,4 @@ If I had to recommend four countries to someone I would recommend the following:
 	Open Format:	<a href="__VIDEO__.OGV">"Ogg"</a>
 </p>
 ```
-Source:%20<https://css-tricks.com/snippets/html/video-for-everybody-html5-video-with-flash-fallback/>
+Source: <https://css-tricks.com/snippets/html/video-for-everybody-html5-video-with-flash-fallback/>
