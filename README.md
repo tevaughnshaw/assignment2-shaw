@@ -16,3 +16,5 @@ Other baseball teams to watch:
 * Kansas City Royals
 * Los Angeles Dodgers
 * Houston Astros
+
+Follow the link to learn more **[AboutMe](AboutMe.md)**
