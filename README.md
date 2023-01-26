@@ -1,5 +1,5 @@
 # TeVaughn Shaw
-## New York Yankees
+## Baseball
 
-I like the Yankees because **everyone** likes the Yankees.<br>
-They seemed to be the **only** baseball team that existed in movies when I was growing up.
+I like baseball because **everyone** likes baseball.<br>
+Baseball seemed to be the **only** sport that existed in movies when I was growing up.
